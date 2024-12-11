@@ -24,13 +24,12 @@ To install **Whatsapp Clone**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/mahnoorbani/Mah-Trendify-Ecommerce-website.git
+sudo git clone https://github.com/mahnoorbani/Whatsapp-Clone.git
 
 Windows:
 
 ```bash
-git clone https://github.com/mahnoorbani/Mah-Trendify-Ecommerce-website.git
-
+git clone https://github.com/mahnoorbani/Whatsapp-Clone.git
 ## Contact
 
 If you want to contact me you can reach me at [Linkedin](www.linkedin.com/in/mah-noor-5912762a2).
